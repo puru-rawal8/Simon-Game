@@ -4,16 +4,16 @@ A Game based on both Front-End and Back-End Development for people to remember c
 Introduction:
 --
 Simon is an electronic game of memory skill invented by Ralph H. Baer and Howard J. Morrison, working for toy design firm Marvin Glass and Associates, with software programming by Lenny Cope. The device creates a series of tones and lights and requires a user to repeat the sequence. If the user succeeds, the series becomes progressively longer and more complex. Once the user fails or the time limit runs out, the game is over. The original version was manufactured and distributed by Milton Bradley and later by Hasbro after it took over Milton Bradley. Much of the assembly language code was written by Charles Kapp’s, who taught computer science at Temple University and also wrote one of the first books on the theory of computer programming. Simon was launched in 1978 at Studio 54 in New York City and was an immediate success, becoming a pop culture symbol of the 1970s and 1980s.
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-How to Play The Game
+How to Play The Game:
 --
- •	Click on power slider toggle button.
- •	Select the level using the power slider button.
- •	The objective is to DO WHAT SIMON SAYS. FOLLOW THE LIGHTS AND PATTERNS AS LONG AS YOU CAN.
- •	If you replay the right SIMON's pattern, then you will move to next round.
- •	Each time you move to a NEW round, SIMON will play a new and longer pattern.
- •	The GAME END'S, When you replay a WRONG pattern.
- •	On successful completion of replay pattern you will WIN.
+-	Click the power checkbox.
+-	The objective is to DO WHAT SIMON SAYS. FOLLOW THE LIGHTS AND PATTERNS AS LONG AS YOU CAN.
+-	If you replay the right SIMON's pattern, then you will move to next round.
+-	Each time you move to a NEW round, SIMON will play a new and longer pattern.
+-	The GAME END'S, When you replay a WRONG pattern.
+-	On successful completion of replay pattern you will WIN.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
